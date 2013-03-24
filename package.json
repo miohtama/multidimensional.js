@@ -1,0 +1,12 @@
+{
+  "name": "multidimensional",
+  "version": "0.0.0",
+  "description": "Multidimensional array helper for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Mikko Ohtamaa",
+  "license": "BSD"
+}
